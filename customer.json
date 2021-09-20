@@ -1,0 +1,62 @@
+{
+  "user": [
+    {
+      "first_name": "jiyansh",
+      "last_name": "sancheti",
+      "email": "mememe@gmail.com",
+      "id": 1
+    },
+    {
+      "first_name": "jiyansh",
+      "last_name": "sancheti",
+      "email": "mememe@gmail.com",
+      "id": 2
+    },
+    {
+      "first_name": "philips",
+      "last_name": "sancheti",
+      "email": "mememe@gmail.com",
+      "id": 3
+    },
+    {
+      "first_name": "philips",
+      "last_name": "sancheti",
+      "email": "mememe@gmail.com",
+      "id": 4
+    },
+    {
+      "first_name": "test_data",
+      "last_name": "sancheti",
+      "email": "mememe@gmail.com",
+      "id": 5
+    },
+    {
+      "first_name": "test_data",
+      "last_name": "sancheti",
+      "email": "mememe@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "bhavna",
+      "address": "1102 prince village",
+      "date": "2021-09-21",
+      "billNumber": "423",
+      "amount": "6456",
+      "articleName": "cacnabc",
+      "redemptionAmount": "90",
+      "redemptionDate": "2021-09-30",
+      "id": 7
+    },
+    {
+      "name": "bhavna",
+      "address": "1102 prince village",
+      "date": "2021-09-21",
+      "billNumber": "423",
+      "amount": "6456",
+      "articleName": "cacnabc",
+      "redemptionAmount": "90",
+      "redemptionDate": "2021-09-30",
+      "id": 8
+    }
+  ]
+}
